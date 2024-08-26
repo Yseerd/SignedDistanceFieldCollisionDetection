@@ -1,0 +1,2 @@
+# SignedDistanceFieldCollisionDetection
+基于SDF有号距离长检测碰撞
