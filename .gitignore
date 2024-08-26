@@ -1,0 +1,17 @@
+.vs
+Library
+.idea
+Logs
+Temp
+obj
+*.csproj
+*.sln
+obj
+UserSettings
+Assets/GameFramework/Script/_cwl
+Assets/GameFramework/Script/_cwl.meta
+App
+App.meta
+Tools/Pictures
+Build
+AssetBundle
